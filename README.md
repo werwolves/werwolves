@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ![Game[^1]](github-user-contribution.svg)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FocueAI&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" width="800" height="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=werwolves&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" width="800" height="400" />
 </div>
