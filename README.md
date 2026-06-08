@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - [部分参与的音乐五线谱识别论文](https://arxiv.org/abs/2604.20522)  
 - [音乐简谱小节识别项目](https://github.com/werwolves/img2seq_pytorch)  
 - [音乐简谱整体识别项目](https://github.com/werwolves/Musical_notation_res_8_26.git)  
+
+![Game[^1]](github-user-contribution.svg)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FocueAI&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" width="800" height="400" />
+</div>
