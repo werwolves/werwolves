@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 🔭 I mainly work in image algorithm related fields, especially fond of OCR  
 🌱 Recently, I want to learn tasks related to multimodal large models  
 🤔 Strong curiosity about computer science  
-(Participated in the OMR project)[https://arxiv.org/abs/2604.20522]
+(参与的音乐五线谱识别)[https://arxiv.org/abs/2604.20522]  
+(音乐简谱小节识别)[https://github.com/werwolves/img2seq_pytorch]
+(音乐简谱整体识别)[https://github.com/werwolves/Musical_notation_res_8_26.git]
