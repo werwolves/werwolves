@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 🔭 I mainly work in image algorithm related fields, especially fond of OCR  
 🌱 Recently, I want to learn tasks related to multimodal large models  
 🤔 Strong curiosity about computer science  
+(Participated in the OMR project)[https://arxiv.org/abs/2604.20522]
