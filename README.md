@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I mainly work in image algorithm related fields, especially fond of OCR
-🌱 Recently, I want to learn tasks related to multimodal large models
-🤔 Strong curiosity about computer science
+🔭 I mainly work in image algorithm related fields, especially fond of OCR  
+🌱 Recently, I want to learn tasks related to multimodal large models  
+🤔 Strong curiosity about computer science  
